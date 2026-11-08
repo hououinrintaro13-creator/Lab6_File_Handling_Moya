@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+---------------------------------------------
+Last Name: Moya
+Student ID: TUPM-26-1138
+Seed Digit: 8
+ID Sum: 21
+Verification Value: 92
+Dataset Sample Size: 71
+Valid Records: 71
+Average Global Active Power: 4.015
+JSON File: Moya_TUPM-26-1138_record.json
+Backup File: Moya_TUPM-26-1138_record.csv

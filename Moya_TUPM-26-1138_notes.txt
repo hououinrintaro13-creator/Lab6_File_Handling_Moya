@@ -1,0 +1,5 @@
+Student: Moya
+Student ID: TUPM-26-1138
+Seed digit: 8
+ID sum: 21
+Verification value: 92
