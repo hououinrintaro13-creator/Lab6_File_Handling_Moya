@@ -1,0 +1,35 @@
+{
+    "student_id": "TUPM-26-1138",
+    "records_processed": 1023,
+    "target_status_class": "2xx",
+    "matching_records_count": 853,
+    "status_counts": {
+        "200": 845,
+        "302": 144,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "top_5_urls": [
+        [
+            "GET /login.php HTTP/1.1",
+            105
+        ],
+        [
+            "GET /home.php HTTP/1.1",
+            91
+        ],
+        [
+            "GET /css/bootstrap.min.css HTTP/1.1",
+            38
+        ],
+        [
+            "GET /css/normalize.css HTTP/1.1",
+            38
+        ],
+        [
+            "GET /js/vendor/jquery-1.12.0.min.js HTTP/1.1",
+            37
+        ]
+    ]
+}

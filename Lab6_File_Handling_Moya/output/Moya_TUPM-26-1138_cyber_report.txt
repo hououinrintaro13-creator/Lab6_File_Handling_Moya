@@ -1,0 +1,23 @@
+CYBERSECURITY INCIDENT REPORT (2023)
+Student: Moya (TUPM-26-1138)
+==================================================
+
+Total Dataset Records: 3000
+Incidents in 2023: 315
+Total Financial Loss: $15,958.08 Million
+Average Financial Loss: $50.66 Million
+
+Attack Type Breakdown:
+ - DDoS: 51
+ - Ransomware: 50
+ - Phishing: 46
+ - Malware: 55
+ - Man-in-the-Middle: 50
+ - SQL Injection: 63
+
+Top 5 Costliest Incidents:
+ 1. Loss: $99.72M | Type: Malware
+ 2. Loss: $99.71M | Type: Man-in-the-Middle
+ 3. Loss: $99.64M | Type: DDoS
+ 4. Loss: $99.62M | Type: DDoS
+ 5. Loss: $99.19M | Type: SQL Injection

@@ -1,0 +1,10 @@
+{
+    "student_id": "TUPM-26-1138",
+    "target_os": "Android",
+    "target_behavior_class": 3,
+    "total_records": 700,
+    "os_matches": 554,
+    "matching_record_count": 111,
+    "average_battery_drain_mAh_day": 1521.69,
+    "average_data_usage_MB_day": 820.26
+}

@@ -1,0 +1,38 @@
+{
+    "student_id": "TUPM-26-1138",
+    "target_year": 2023,
+    "total_records": 3000,
+    "incidents_in_target_year": 315,
+    "total_financial_loss_million": 15958.08,
+    "average_financial_loss_million": 50.66,
+    "attack_type_counts": {
+        "DDoS": 51,
+        "Ransomware": 50,
+        "Phishing": 46,
+        "Malware": 55,
+        "Man-in-the-Middle": 50,
+        "SQL Injection": 63
+    },
+    "top_5_costliest_incidents": [
+        {
+            "loss_million": 99.72,
+            "attack_type": "Malware"
+        },
+        {
+            "loss_million": 99.71,
+            "attack_type": "Man-in-the-Middle"
+        },
+        {
+            "loss_million": 99.64,
+            "attack_type": "DDoS"
+        },
+        {
+            "loss_million": 99.62,
+            "attack_type": "DDoS"
+        },
+        {
+            "loss_million": 99.19,
+            "attack_type": "SQL Injection"
+        }
+    ]
+}
